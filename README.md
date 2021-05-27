@@ -2,4 +2,4 @@
 
  Hello World
 
-[link](sub/file1)
+[link](sub/file1.md)
