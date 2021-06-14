@@ -2,4 +2,4 @@
 
  Hello World
 
-[link](sub/README.md) 👻
+[link](sub/file1.md) 👻
