@@ -4,4 +4,4 @@
 
  [link](sub/file1.md) 👻
 
- * List 
+ * list
